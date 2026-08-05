@@ -54,6 +54,15 @@ Projeto de estudo do padrão DAO utilizando JDBC puro, reforçando conceitos de 
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guisbezerra&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisbezerra&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
 🚧 **Próximos projetos**
 
 - Task Manager API (Spring Boot + PostgreSQL)
@@ -62,8 +71,6 @@ Projeto de estudo do padrão DAO utilizando JDBC puro, reforçando conceitos de 
 - Deploy na AWS
 
 ---
-
-![Stats](https://github-readme-stats.vercel.app/api?username=guisbezerra&show_icons=true&theme=default)
 
 ## 📫 Contato
 
