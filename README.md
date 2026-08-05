@@ -36,30 +36,27 @@ Busco contribuir com projetos Backend utilizando Java, Spring Boot e AWS, desenv
 
 ## 💼 Projetos em Destaque
 
-### 🔹 REST API com Spring Boot + JPA
+### 🔹 [Product API](https://github.com/guisbezerra/workshop-springboot-jpa)
 
-API REST desenvolvida em Java utilizando Spring Boot, JPA/Hibernate e MySQL, implementando arquitetura em camadas, operações CRUD, tratamento de exceções e boas práticas de desenvolvimento.
-
-➡️ Repositório:
-https://github.com/guisbezerra/workshop-springboot-jpa
+API REST desenvolvida em Java utilizando Spring Boot, JPA/Hibernate e MySQL. O projeto implementa arquitetura em camadas, operações CRUD, tratamento de exceções e boas práticas de desenvolvimento.
 
 ---
 
-### 🔹 REST API com Spring Boot + MongoDB
+### 🔹 [MongoDB REST API](https://github.com/guisbezerra/workshop-springboot-mongodb)
 
-Projeto desenvolvido utilizando Java, Spring Boot e MongoDB, explorando persistência NoSQL, modelagem de documentos e operações CRUD.
-
-➡️ Repositório:
-https://github.com/guisbezerra/workshop-springboot-mongodb
+API REST desenvolvida em Java utilizando Spring Boot e MongoDB, explorando persistência NoSQL, modelagem de documentos e operações CRUD.
 
 ---
 
-### 🔹 JDBC DAO
+### 🔹 [JDBC DAO Pattern](https://github.com/guisbezerra/jdbc-dao-demo)
 
-Projeto para estudo do padrão DAO utilizando JDBC puro, reforçando conceitos de acesso a banco de dados, separação de responsabilidades e persistência sem ORM.
+Projeto desenvolvido em Java para estudo do padrão DAO utilizando JDBC, reforçando conceitos de acesso a banco de dados, separação de responsabilidades e persistência sem ORM.
 
-➡️ Repositório:
-https://github.com/guisbezerra/jdbc-dao-demo
+---
+
+🚧 **Em desenvolvimento**
+
+Atualmente estou desenvolvendo novos projetos autorais utilizando Java, Spring Boot, Docker e AWS, aplicando boas práticas de arquitetura backend e desenvolvimento de APIs REST.
 
 ---
 
