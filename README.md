@@ -34,6 +34,15 @@ Busco contribuir com projetos Backend utilizando Java, Spring Boot e AWS, desenv
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=guisbezerra&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guisbezerra&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
 ## 💼 Projetos em Destaque
 
 ### 🔹 [REST API com Spring Boot + JPA](https://github.com/guisbezerra/springboot-rest-api-jpa)
@@ -51,15 +60,6 @@ Projeto desenvolvido em Java com Spring Boot e MongoDB, explorando persistência
 ### 🔹 [Java JDBC DAO](https://github.com/guisbezerra/jdbc-dao-pattern)
 
 Projeto de estudo do padrão DAO utilizando JDBC puro, reforçando conceitos de acesso a banco de dados, separação de responsabilidades e persistência sem ORM.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=guisbezerra&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guisbezerra&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
 ---
 
