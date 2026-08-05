@@ -33,6 +33,9 @@ Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Backen
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
+---
+
+## 📂 Projetos em Destaque
 <!--
 **guisbezerra/guisbezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
