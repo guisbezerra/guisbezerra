@@ -63,6 +63,8 @@ Projeto de estudo do padrão DAO utilizando JDBC puro, reforçando conceitos de 
 
 ---
 
+![Stats](https://github-readme-stats.vercel.app/api?username=guisbezerra&show_icons=true&theme=default)
+
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guisbezerra)
