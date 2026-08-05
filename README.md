@@ -34,8 +34,6 @@ Busco contribuir com projetos Backend utilizando Java, Spring Boot e AWS, desenv
 
 ---
 
----
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
@@ -69,7 +67,7 @@ Projeto de estudo do padrão DAO utilizando JDBC puro, reforçando conceitos de 
 
 ---
 
-## 🚧 Próximos projetos**
+## 🚧 Próximos Projetos
 
 - Task Manager API (Spring Boot + PostgreSQL)
 - Sistema de autenticação com JWT
