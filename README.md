@@ -36,6 +36,19 @@ Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Backen
 ---
 
 ## 💼 Projetos em Destaque
+
+🔹 Workshop Spring Boot + JPA  
+API REST desenvolvida em Java utilizando Spring Boot, JPA/Hibernate e MySQL.
+
+🔹 Workshop Spring Boot + MongoDB  
+API REST utilizando MongoDB para persistência de dados.
+
+🔹 JDBC DAO  
+Projeto para estudo do padrão DAO utilizando JDBC.
+
+🚧 Em desenvolvimento...
+
+Em breve novos projetos autorais utilizando Java, Spring Boot, Docker e AWS.
 <!--
 **guisbezerra/guisbezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
