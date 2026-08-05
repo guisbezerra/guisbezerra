@@ -69,7 +69,7 @@ Projeto de estudo do padrão DAO utilizando JDBC puro, reforçando conceitos de 
 
 ---
 
-🚧 ** Próximos projetos**
+## 🚧 Próximos projetos**
 
 - Task Manager API (Spring Boot + PostgreSQL)
 - Sistema de autenticação com JWT
