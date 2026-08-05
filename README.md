@@ -36,37 +36,30 @@ Busco contribuir com projetos Backend utilizando Java, Spring Boot e AWS, desenv
 
 ## 💼 Projetos em Destaque
 
-### 🔹 [REST API com Spring Boot + JPA](https://github.com/guisbezerra/workshop-springboot-jpa)
+### 🔹 [REST API com Spring Boot + JPA](https://github.com/guisbezerra/springboot-rest-api-jpa)
 
-API REST desenvolvida em Java utilizando Spring Boot, JPA/Hibernate e MySQL, implementando arquitetura em camadas, operações CRUD, tratamento de exceções e boas práticas de desenvolvimento.
-
----
-
-### 🔹 [REST API com Spring Boot + MongoDB](https://github.com/guisbezerra/workshop-springboot-mongodb)
-
-Projeto desenvolvido utilizando Java, Spring Boot e MongoDB, explorando persistência NoSQL, modelagem de documentos e operações CRUD.
+API REST desenvolvida em Java utilizando Spring Boot, Spring Data JPA, Hibernate e MySQL, implementando arquitetura em camadas, operações CRUD, tratamento de exceções e boas práticas de desenvolvimento.
 
 ---
 
-### 🔹 [JDBC DAO Pattern](https://github.com/guisbezerra/jdbc-dao-demo)
+### 🔹 [REST API com Spring Boot + MongoDB](https://github.com/guisbezerra/springboot-rest-api-mongodb)
 
-Projeto desenvolvido em Java para estudo do padrão DAO utilizando JDBC, reforçando conceitos de acesso a banco de dados, separação de responsabilidades e persistência sem ORM.
-
----
-
-🚧 **Em desenvolvimento**
-
-Atualmente estou desenvolvendo novos projetos autorais utilizando Java, Spring Boot, Docker e AWS, aplicando boas práticas de arquitetura backend e desenvolvimento de APIs REST.
+Projeto desenvolvido em Java com Spring Boot e MongoDB, explorando persistência NoSQL, modelagem de documentos, operações CRUD e organização em camadas.
 
 ---
 
-## 🎯 Próximos projetos
+### 🔹 [Java JDBC DAO](https://github.com/guisbezerra/java-jdbc-dao)
 
-- API de autenticação com Spring Security + JWT
-- Docker Compose
+Projeto de estudo do padrão DAO utilizando JDBC puro, reforçando conceitos de acesso a banco de dados, separação de responsabilidades e persistência sem ORM.
+
+---
+
+🚧 **Próximos projetos**
+
+- Task Manager API (Spring Boot + PostgreSQL)
+- Sistema de autenticação com JWT
+- Docker + Docker Compose
 - Deploy na AWS
-- Testes unitários com JUnit e Mockito
-- Microsserviços com Spring Boot
 
 ---
 
