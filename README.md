@@ -1,4 +1,4 @@
-## # Olá! Eu sou Guilherme Bezerra 👋
+## Olá! Eu sou Guilherme Bezerra 👋
 
 ### Backend Developer | Java & Spring Boot
 
