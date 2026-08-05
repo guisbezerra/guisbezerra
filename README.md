@@ -1,8 +1,8 @@
 ## Olá! Eu sou Guilherme Bezerra 👋
 ### Backend Developer | Java & Spring Boot
 
-💻 Java • Spring Boot • REST APIs • SQL • Docker • AWS
-🎓 AWS Certified AI Practitioner
+💻 Java • Spring Boot • REST APIs • SQL • Docker • AWS<br>
+🎓 AWS Certified AI Practitioner<br>
 📍 Brasília - DF, Brasil
 
 ---
@@ -33,13 +33,13 @@ Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Backen
 
 ## 💼 Projetos em Destaque
 
-🔹 **[Spring Boot + JPA](link-do-repo)**
+🔹 **[Spring Boot + JPA](link-do-repo)**<br>
 API REST desenvolvida em Java utilizando Spring Boot, JPA/Hibernate e MySQL, com camadas de serviço, repositório e tratamento de exceções.
 
-🔹 **[Spring Boot + MongoDB](link-do-repo)**
+🔹 **[Spring Boot + MongoDB](link-do-repo)**<br>
 API REST utilizando MongoDB para persistência de dados, explorando modelagem NoSQL e operações CRUD.
 
-🔹 **[JDBC DAO](link-do-repo)**
+🔹 **[JDBC DAO](link-do-repo)**<br>
 Projeto de estudo do padrão DAO utilizando JDBC puro, aprofundando o entendimento de acesso a dados sem framework ORM.
 
 🚧 **Em desenvolvimento:** novos projetos autorais utilizando Java, Spring Boot, Docker e AWS.
