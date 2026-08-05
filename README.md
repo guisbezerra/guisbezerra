@@ -35,7 +35,7 @@ Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Backen
 
 ---
 
-## 📂 Projetos em Destaque
+## 💼 Projetos em Destaque
 <!--
 **guisbezerra/guisbezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
