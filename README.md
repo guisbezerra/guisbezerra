@@ -36,15 +36,15 @@ Busco contribuir com projetos Backend utilizando Java, Spring Boot e AWS, desenv
 
 ## 💼 Projetos em Destaque
 
-### 🔹 [Product API](https://github.com/guisbezerra/workshop-springboot-jpa)
+### 🔹 [REST API com Spring Boot + JPA](https://github.com/guisbezerra/workshop-springboot-jpa)
 
-API REST desenvolvida em Java utilizando Spring Boot, JPA/Hibernate e MySQL. O projeto implementa arquitetura em camadas, operações CRUD, tratamento de exceções e boas práticas de desenvolvimento.
+API REST desenvolvida em Java utilizando Spring Boot, JPA/Hibernate e MySQL, implementando arquitetura em camadas, operações CRUD, tratamento de exceções e boas práticas de desenvolvimento.
 
 ---
 
-### 🔹 [MongoDB REST API](https://github.com/guisbezerra/workshop-springboot-mongodb)
+### 🔹 [REST API com Spring Boot + MongoDB](https://github.com/guisbezerra/workshop-springboot-mongodb)
 
-API REST desenvolvida em Java utilizando Spring Boot e MongoDB, explorando persistência NoSQL, modelagem de documentos e operações CRUD.
+Projeto desenvolvido utilizando Java, Spring Boot e MongoDB, explorando persistência NoSQL, modelagem de documentos e operações CRUD.
 
 ---
 
