@@ -1,4 +1,12 @@
-## Hi there 👋
+## # Olá! Eu sou Guilherme Bezerra 👋
+
+### Backend Developer | Java & Spring Boot
+
+💻 Java • Spring Boot • REST APIs • SQL • Docker • AWS
+
+🎓 AWS Certified AI Practitioner
+
+📍 Brasília - DF, Brasil
 
 <!--
 **guisbezerra/guisbezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
