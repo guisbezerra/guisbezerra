@@ -20,6 +20,12 @@ Tenho mais de 5 anos de experiência profissional em Auditoria Interna, o que fo
 
 Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Backend Java e crescer profissionalmente desenvolvendo soluções de qualidade.
 
+---
+
+## 🚀 Tecnologias
+
+Java • Spring Boot • SQL • MySQL • Docker • Git • GitHub • AWS
+
 <!--
 **guisbezerra/guisbezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
