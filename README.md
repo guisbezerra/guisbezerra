@@ -48,7 +48,7 @@ Projeto desenvolvido em Java com Spring Boot e MongoDB, explorando persistência
 
 ---
 
-### 🔹 [Java JDBC DAO](https://github.com/guisbezerra/java-jdbc-dao)
+### 🔹 [Java JDBC DAO](https://github.com/guisbezerra/jdbc-dao-pattern)
 
 Projeto de estudo do padrão DAO utilizando JDBC puro, reforçando conceitos de acesso a banco de dados, separação de responsabilidades e persistência sem ORM.
 
