@@ -46,6 +46,16 @@ API REST utilizando MongoDB para persistência de dados.
 🔹 JDBC DAO  
 Projeto para estudo do padrão DAO utilizando JDBC.
 
+---
+
+## 📈 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guisbezerra&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guisbezerra&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
 🚧 Em desenvolvimento...
 
 Em breve novos projetos autorais utilizando Java, Spring Boot, Docker e AWS.
