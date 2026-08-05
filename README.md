@@ -1,20 +1,22 @@
-## Olá! Eu sou Guilherme Bezerra 👋
-### Backend Developer | Java & Spring Boot
+# Olá! Eu sou Guilherme Bezerra 👋
 
-💻 Java • Spring Boot • REST APIs • SQL • Docker • AWS<br>
-🎓 AWS Certified AI Practitioner<br>
+### Desenvolvedor Backend Java | Spring Boot | AWS
+
+💻 Java • Spring Boot • REST APIs • SQL • Docker • AWS  
+🎓 AWS Certified AI Practitioner  
 📍 Brasília - DF, Brasil
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou Desenvolvedor Backend focado em Java, Spring Boot e AWS.
-Atualmente estou aprofundando meus conhecimentos em desenvolvimento de APIs REST, bancos de dados, Docker e computação em nuvem, construindo projetos práticos para consolidar minha experiência.
+Sou Desenvolvedor Backend em transição de carreira, com foco em Java, Spring Boot e computação em nuvem com AWS.
 
-Tenho mais de 5 anos de experiência profissional em Auditoria Interna, o que fortaleceu minhas habilidades analíticas, resolução de problemas e melhoria de processos.
+Atualmente desenvolvo projetos práticos voltados para APIs REST, arquitetura em camadas, persistência de dados com SQL e MongoDB, além da utilização de Docker e boas práticas de desenvolvimento de software.
 
-Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Backend Java e crescer profissionalmente desenvolvendo soluções de qualidade.
+Minha experiência de mais de cinco anos em Auditoria Interna fortaleceu habilidades em análise de problemas, melhoria de processos, comunicação e pensamento analítico, competências que hoje aplico no desenvolvimento de software.
+
+Busco contribuir com projetos Backend utilizando Java, Spring Boot e AWS, desenvolvendo soluções escaláveis, organizadas e de alta qualidade.
 
 ---
 
@@ -24,6 +26,7 @@ Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Backen
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -33,35 +36,47 @@ Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Backen
 
 ## 💼 Projetos em Destaque
 
-🔹 **[Spring Boot + JPA](link-do-repo)**<br>
-API REST desenvolvida em Java utilizando Spring Boot, JPA/Hibernate e MySQL, com camadas de serviço, repositório e tratamento de exceções.
+### 🔹 REST API com Spring Boot + JPA
 
-🔹 **[Spring Boot + MongoDB](link-do-repo)**<br>
-API REST utilizando MongoDB para persistência de dados, explorando modelagem NoSQL e operações CRUD.
+API REST desenvolvida em Java utilizando Spring Boot, JPA/Hibernate e MySQL, implementando arquitetura em camadas, operações CRUD, tratamento de exceções e boas práticas de desenvolvimento.
 
-🔹 **[JDBC DAO](link-do-repo)**<br>
-Projeto de estudo do padrão DAO utilizando JDBC puro, aprofundando o entendimento de acesso a dados sem framework ORM.
+➡️ Repositório:
+https://github.com/guisbezerra/workshop-springboot-jpa
 
-🚧 **Em desenvolvimento:** novos projetos autorais utilizando Java, Spring Boot, Docker e AWS.
+---
+
+### 🔹 REST API com Spring Boot + MongoDB
+
+Projeto desenvolvido utilizando Java, Spring Boot e MongoDB, explorando persistência NoSQL, modelagem de documentos e operações CRUD.
+
+➡️ Repositório:
+https://github.com/guisbezerra/workshop-springboot-mongodb
+
+---
+
+### 🔹 JDBC DAO
+
+Projeto para estudo do padrão DAO utilizando JDBC puro, reforçando conceitos de acesso a banco de dados, separação de responsabilidades e persistência sem ORM.
+
+➡️ Repositório:
+https://github.com/guisbezerra/jdbc-dao-demo
+
+---
+
+## 🎯 Próximos projetos
+
+- API de autenticação com Spring Security + JWT
+- Docker Compose
+- Deploy na AWS
+- Testes unitários com JUnit e Mockito
+- Microsserviços com Spring Boot
 
 ---
 
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guisbezerra)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermesbezerra1@email.com)
 
-<!--
-**guisbezerra/guisbezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guisbezerra)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermesbezerra1@email.com)
