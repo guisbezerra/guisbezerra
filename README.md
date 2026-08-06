@@ -10,13 +10,13 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou Desenvolvedor Backend em transição de carreira, com foco em Java, Spring Boot e computação em nuvem com AWS.
+Sou Desenvolvedor Backend, com foco em Java, Spring Boot e computação em nuvem utilizando AWS.
 
 Atualmente desenvolvo projetos práticos voltados para APIs REST, arquitetura em camadas, persistência de dados com SQL e MongoDB, além da utilização de Docker e boas práticas de desenvolvimento de software.
 
 Minha experiência de mais de cinco anos em Auditoria Interna fortaleceu habilidades em análise de problemas, melhoria de processos, comunicação e pensamento analítico, competências que hoje aplico no desenvolvimento de software.
 
-Busco contribuir com projetos Backend utilizando Java, Spring Boot e AWS, desenvolvendo soluções escaláveis, organizadas e de alta qualidade.
+Busco minha primeira oportunidade como Desenvolvedor Backend Java para contribuir com soluções escaláveis, bem estruturadas e alinhadas às boas práticas de engenharia de software.
 
 ---
 
@@ -40,13 +40,13 @@ Busco contribuir com projetos Backend utilizando Java, Spring Boot e AWS, desenv
 
 ## 💼 Projetos em Destaque
 
-### 🔹 [REST API com Spring Boot + JPA](https://github.com/guisbezerra/springboot-rest-api-jpa)
+### 🔹 [REST API • Spring Boot + JPA](https://github.com/guisbezerra/springboot-rest-api-jpa)
 
 API REST desenvolvida em Java utilizando Spring Boot, Spring Data JPA, Hibernate e MySQL, implementando arquitetura em camadas, operações CRUD, tratamento de exceções e boas práticas de desenvolvimento.
 
 ---
 
-### 🔹 [REST API com Spring Boot + MongoDB](https://github.com/guisbezerra/springboot-rest-api-mongodb)
+### 🔹 [REST API • Spring Boot + MongoDB](https://github.com/guisbezerra/springboot-rest-api-mongodb)
 
 Projeto desenvolvido em Java com Spring Boot e MongoDB, explorando persistência NoSQL, modelagem de documentos, operações CRUD e organização em camadas.
 
