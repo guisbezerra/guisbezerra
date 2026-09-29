@@ -26,7 +26,7 @@ Busco minha primeira oportunidade como Desenvolvedor Backend Java para contribui
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![JPA](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -42,7 +42,7 @@ Busco minha primeira oportunidade como Desenvolvedor Backend Java para contribui
 
 ### 🔹 [REST API • Spring Boot + JPA](https://github.com/guisbezerra/springboot-rest-api-jpa)
 
-API REST desenvolvida em Java utilizando Spring Boot, Spring Data JPA, Hibernate e MySQL, implementando arquitetura em camadas, operações CRUD, tratamento de exceções e boas práticas de desenvolvimento.
+API REST desenvolvida em Java utilizando Spring Boot, Spring Data JPA, Hibernate e H2, implementando arquitetura em camadas, operações CRUD, tratamento de exceções e boas práticas de desenvolvimento.
 
 ---
 
