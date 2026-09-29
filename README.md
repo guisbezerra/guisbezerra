@@ -2,17 +2,17 @@
 
 ### Desenvolvedor Backend Java | Spring Boot | AWS
 
-💻 Java • Spring Boot • REST APIs • SQL • Docker • AWS  
-🎓 AWS Certified AI Practitioner  
+💻 Java • Spring Boot • REST APIs • SQL • JPA/Hibernate • MongoDB • AWS  
+☁️ AWS Certified Cloud Practitioner • AWS Certified AI Practitioner  
 📍 Brasília - DF, Brasil
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou Desenvolvedor Backend, com foco em Java, Spring Boot e computação em nuvem utilizando AWS.
+Sou Desenvolvedor Backend, com foco em Java, Spring Boot e desenvolvimento de APIs REST.
 
-Atualmente desenvolvo projetos práticos voltados para APIs REST, arquitetura em camadas, persistência de dados com SQL e MongoDB, além da utilização de Docker e boas práticas de desenvolvimento de software.
+Atualmente desenvolvo projetos práticos voltados para APIs REST, arquitetura em camadas, persistência de dados com SQL e MongoDB, além de boas práticas de desenvolvimento de software.
 
 Minha experiência de mais de cinco anos em Auditoria Interna fortaleceu habilidades em análise de problemas, melhoria de processos, comunicação e pensamento analítico, competências que hoje aplico no desenvolvimento de software.
 
@@ -27,9 +27,9 @@ Busco minha primeira oportunidade como Desenvolvedor Backend Java para contribui
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
@@ -69,7 +69,8 @@ Projeto de estudo do padrão DAO utilizando JDBC puro, reforçando conceitos de 
 
 ## 📫 Contato
 
+<p align="center">
 <a href="https://www.linkedin.com/in/guisbezerra"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/guisbezerra"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=guilhermesbezerra1@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=Guilhermesbezerra1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
